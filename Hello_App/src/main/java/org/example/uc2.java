@@ -1,0 +1,8 @@
+public class uc2 {
+
+    public static void main(String[] args) {
+
+        String Nishanth = args[0];
+        System.out.println("Hello, " + Nishanth + "!");
+    }
+}
